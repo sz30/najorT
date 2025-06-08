@@ -1,7 +1,7 @@
 
 import { connect } from "cloudflare:sockets";
 
-let password = 'ffc1d222-b37f-4d0f-94c2-7bf95430cc01';
+let password = '';
 let proxyIP = 'ProxyIP.JP.CMLiussss.net';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
