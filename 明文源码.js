@@ -20,9 +20,6 @@ let go2Socks5s = [
 	'*tapecontent.net',
 	'*cloudatacdn.com',
 	'*.loadshare.org',
-	'*cf.090227.xyz',
-	'*ct.090227.xyz',
-	'*cmcc.090227.xyz',
 ];
 let addresses = [];
 let addressesapi = [];
